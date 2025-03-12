@@ -1,0 +1,6 @@
+@Mission10_Takamura_HostAddress = http://localhost:5200
+
+GET {{Mission10_Takamura_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
