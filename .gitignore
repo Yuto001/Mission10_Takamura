@@ -3,7 +3,7 @@
 bin/
 obj/
 *.db
-*.sqlite
+
 *.log
 *.cache
 *.pdb
